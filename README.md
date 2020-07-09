@@ -12,13 +12,6 @@
 其中[GAN网络之入门教程（四）之基于DCGAN动漫头像生成](https://www.cnblogs.com/xiaohuiduan/p/13274675.html) 是关于代码的解释。
 
 
-
-## 数据集来源
-
-数据集非本人收集，数据集来自Kaggle：[kaggle——Anime Faces](https://www.kaggle.com/soumikrakshit/anime-faces)。
-
-
-
 ## 网络结构
 
 ### D网络
