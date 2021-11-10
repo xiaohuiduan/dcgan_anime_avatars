@@ -1,6 +1,11 @@
 ## 简介
 
 **数据挖掘课程设计**：基于DCGAN自动生成动漫头像。
+keras：2.4.3
+tensorflow：2.4.1
+迭代100轮的结果：
+
+![](https://user-images.githubusercontent.com/40485068/141036446-7607da0d-d9dc-47c4-b404-80235f99cce7.png)
 
 关于GAN网络获得DCGAN的相关知识，可以参考我的博客：[GAN网络入门](https://www.cnblogs.com/xiaohuiduan/category/1799415.html)，一共分为：
 
